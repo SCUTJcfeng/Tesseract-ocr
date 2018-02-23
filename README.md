@@ -3,15 +3,14 @@
     * default lang
     * 灰度&&二值化
     * 降噪
-# 代码块展示
+### 代码块展示
 ```C#
 Public Void HTTPGetContent(string url, string params) //C#
 ```
-
+### 图片
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")<br>
 
-表格
---------
+### 表格
 
 表头1  | 表头2|
 | ---------- | -----------|
@@ -25,4 +24,4 @@ Public Void HTTPGetContent(string url, string params) //C#
 
 |语法|效果|
 |---|---|
-|`[回到顶部](#Tesseract-ocr)`|[回到顶部](#tesseract-ocr)|
+|`[回到顶部](#tesseract-ocr)`|[回到顶部](#tesseract-ocr)|
